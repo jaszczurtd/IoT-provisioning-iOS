@@ -1,0 +1,6 @@
+framework module Pods_IoT_Porting {
+  umbrella header "Pods-IoT_Porting-umbrella.h"
+
+  export *
+  module * { export * }
+}
